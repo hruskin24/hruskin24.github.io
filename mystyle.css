@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(204, 242, 255);
+  }
+  div {
+    text-align: center;
+  
+  }
+  h1 {
+    color: rgb(250, 128, 224);
+    margin-left: 25px;
+    text-align: center;
+  }
+  h2 {
+    color: rgb(250, 197, 128);
+  }
+  h3 {
+    color: rgb(250, 128, 128);
+  }
+
+   #SEF  {
+    color: rgb(136, 128, 250);
+  }
+
+  p {
+    color: rgb(8, 112, 8);
+  }
+  
