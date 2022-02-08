@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(114, 182, 204);
+}
+
+
+  h1 {
+    color: rgb(121, 25, 211);
+    margin-left: 25px;
+    text-align: center;
+  }
+  img{
+      width: 300px;
+  }
+
+  @media (max-width: 300px) {
+    body {
+      background-color: rgb(1, 22, 29);
+    }
+  }

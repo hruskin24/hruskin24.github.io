@@ -1,0 +1,20 @@
+.produkt {
+    max-width: 16%;
+    float: left;
+    margin-left: 4%;
+}
+
+.zoznam {
+    margin-left: -1%;
+}
+
+#produkt1 {
+    max-width: 16%;
+    float: left;
+    margin-left: 1%;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
